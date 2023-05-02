@@ -1,3 +1,3 @@
 # humanize_date_task
 
-A new Flutter project.
+Time ago according to outlook depending on picked date.
